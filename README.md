@@ -1,7 +1,7 @@
 <!--
 [![Anu's header](https://raw.githubusercontent.com/robocop-uk/robocop-uk/main/images/anu.jpeg)]()
 -->
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Anu Karthika,
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Anukarthika,
 
  A Hybrid Tamilian and Kanadiga with Blend of Idly Sambar and  | 👨‍💻 Cyber Security Enthusiast by Passion
 
