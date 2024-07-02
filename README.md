@@ -1,26 +1,26 @@
 <!--
-[![Sundar header](https://raw.githubusercontent.com/robocop-uk/robocop-uk/main/images/sundar.jpeg)](https://www.linkedin.com/in/connectwithmeenakshisundaram)
+[![Anu's header](https://raw.githubusercontent.com/robocop-uk/robocop-uk/main/images/anu.jpeg)]()
 -->
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Meenakshi Sundaram Shanmugasundaram Chidambaram, I know my name is pretty long...typical Indian but help yourself by calling Sundar.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Anu Karthika,
 
-🤖+⚙️ A Hybrid Robotics Engineer with Blend of Mechanical Recipes by Education | 👨‍💻 Robot Enthusiast by Passion
+ A Hybrid Tamilian and Kanadiga with Blend of Idly Sambar and  | 👨‍💻 Cyber Security Enthusiast by Passion
 
-👨‍💻 I worked as Mechanical Engineer - III previously at Boson Motors.
+👨‍💻 I worked as a Risk Analyst and Trust & Safety Analyst in Gameskraft, Linekdin, Amazon 
 
-❤️ An enthusiastic engineer with a high motivation who loves to play with software and hardware of robots to innovate new things that can improve the existing technology and committed to developing solutions to improve people's lives.
+❤️As a dedicated MSC Computing student at Cardiff University, I leverage a robust academic background and hands-on experience as a seasoned Risk Professional. With a proven track record in identifying and mitigating financial risks and extracting meaningful insights from complex data sets, I am adept at navigating the intersection of technology and analytics.
 
-> People who stay single are already committed to their Passion! - Borrowed from a friend
+
+> Life Begins after Coffeeeeeeeeeee!
 >
-> The Passion that keeps them occupied! - Borrowed from a friend
+> The Coffee that keeps me occupied!
 >
-> The Passion that makes them enjoy! - Borrowed from a friend
+> The Coffee that makes them enjoy! 
 >
-> The Only way to do great things is to love what you do - Steve Jobs
-> -- Sundar A.K.A my so-called longest name ever
+> -- Anu A.K.A Anu
 
 🧳In my free time, I travel with music on the so-called Motorhead!
 
-#### I am a Designer + Programmer who turns sketches into products and also Bugs into Features :)
+#### I am a Programmer by day and a Cyber enthusiast by passion who busts threats to thrust!
 
 <Details>
   <summary>More about Me! Look I am too lazy to type everything here again will do it later please go to my LinkedIn page until then it is a Work in Progress here🚧</summary>
@@ -30,8 +30,14 @@
 <Details>
   <summary>Click to expand!</summary>
 
-#### Boson Motors India Private Limited
-- Mechanical Engineer - III - Aug 2020 - Aug 2023
+#### Gameskraft, India
+- Risk Analyst
+
+#### Linkedin, India
+- Trust & Safet Analyst
+
+#### Amazon, India
+- Risk Analyst
 
 
 </Details>
@@ -41,9 +47,8 @@
 <Details>
   <summary>Click to expand!</summary>
   
-- [Static Analysis of Airless Tyres](https://iopscience.iop.org/article/10.1088/1757-899X/923/1/012017)
-- [Crash Analysis on Automobile Bumpers](https://iopscience.iop.org/article/10.1088/1757-899X/923/1/012018)
-- [Design and Fabrication of Two Row Paddy Transplanter](https://link.springer.com/book/10.1007%2F978-981-16-2109-3)
+- [Research Title](URL)
+
  
 </Details>
 
@@ -51,17 +56,7 @@
 <Details>
   <summary>Click to expand!</summary>
  
-- Dynamic Mapping and Cooperative Navigation for Multi-Robot Systems: A Collaborative SLAM Approach
-- Obstacle detection and Simultaneous Localization And Mapping (SLAM) of differential drive rover (TARS)
-- Autonomous navigation of differential drive rover
-- Line Following and Path Planning Using Odometry and PID Control of Pololu 3 Pi + Bot
-- Integration of 3D AI Stereo Camera onto Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Powertrain system architecture of Energy Storage System (ESS) design and integration of 4 wheel drive (4WD) model of Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Integration of Close-Range LiDAR onto Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Battery Thermal Management System (BTMS) Design, Integration and Testing of Energy Storage System (ESS) of LCEV and Stationery Energy Storage System based on LiFePo4 battery (Boson Motors, Inc.)
-- Powertrain system architecture design and integration of Rear Wheel drive (RWD) model of Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Static Analysis of Different Spoke Structures of Airless Tyres and Conventional Tyre
-- Design and Fabrication of Two Row Paddy Transplanter 
+- 
 
   
 </Details>
@@ -77,8 +72,7 @@
 
 ## Technologies
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-00979D?style=for-the-badge&logo=SolidWorks&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
@@ -88,10 +82,10 @@
 
 
 ## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/this_issundar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisissundar?igsh=MTVmbG9yMGN3ZGNlaQ%3D%3D&utm_source=qr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectwithmeenakshisundaram)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robocop-uk)
+[![Twitter]()
+[![Instagram]()
+[![Linkedin]()
+[![Github]()
 
 
 
