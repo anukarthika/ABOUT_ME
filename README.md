@@ -84,7 +84,7 @@
 ## 📫 Connect with Me
 [![Twitter]()
 [![Instagram]()
-[![Linkedin]()
+[![Linkedin](https://www.linkedin.com/in/anukarthika/)
 [![Github]()
 
 
