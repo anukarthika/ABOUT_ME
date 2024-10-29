@@ -1,98 +1,34 @@
-<!--
-[![Sundar header](https://raw.githubusercontent.com/robocop-uk/robocop-uk/main/images/sundar.jpeg)](https://www.linkedin.com/in/connectwithmeenakshisundaram)
--->
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Meenakshi Sundaram Shanmugasundaram Chidambaram, I know my name is pretty long...typical Indian but help yourself by calling Sundar.
+👋 Hello, I'm Anukarthika Rajasekhar!
 
-🤖+⚙️ A Hybrid Robotics Engineer with Blend of Mechanical Recipes by Education | 👨‍💻 Robot Enthusiast by Passion
+🔒 Cybersecurity Professional | Risk Analyst | AWS Certified Solution Architect
 
-👨‍💻 I worked as Mechanical Engineer - III previously at Boson Motors.
+Dynamic and results-oriented, I bring over six years of hands-on experience in cybersecurity and risk management. Currently advancing my expertise with a Master's in Computing at Cardiff University, my mission is to blend strategic acumen with technical proficiency to address today’s complex cybersecurity challenges. Skilled in cloud-based security, data visualization, and risk mitigation, I am passionate about driving impactful security strategies.
 
-❤️ An enthusiastic engineer with a high motivation who loves to play with software and hardware of robots to innovate new things that can improve the existing technology and committed to developing solutions to improve people's lives.
+📌 Projects and Highlights
+CRM Integration for Risk Mitigation
+Position: Risk Analyst at Gameskraft
+Developed and deployed CRM tools that significantly enhanced user behavior analysis. This project reduced report generation times by 25% and improved fraud detection by 30% by utilizing SQL-based ETL processes for analyzing transactional patterns. Collaborated with cross-functional teams, which led to a 20% reduction in customer queries.
 
-> People who stay single are already committed to their Passion! - Borrowed from a friend
->
-> The Passion that keeps them occupied! - Borrowed from a friend
->
-> The Passion that makes them enjoy! - Borrowed from a friend
->
-> The Only way to do great things is to love what you do - Steve Jobs
-> -- Sundar A.K.A my so-called longest name ever
+Incident Response for LinkedIn Ads Platform
+Position: Trust and Safety Analyst at LinkedIn
+Managed and resolved fraud and non-compliant tasks, handling up to 1,500 cases weekly while maintaining a 98% quality score. This experience strengthened my incident response skills and highlighted my ability to collaborate with engineering, legal, and product teams to enforce safety policies effectively.
 
-🧳In my free time, I travel with music on the so-called Motorhead!
+Risk Assessment Model Implementation
+Position: Transaction Risk Investigator at Amazon
+Spearheaded the development of a risk assessment model that improved accuracy in identifying high-risk transactions by 15%. I also led data-driven fraud detection initiatives using Power BI to establish site-specific SOPs, reducing fraud incidents across marketplaces.
 
-#### I am a Designer + Programmer who turns sketches into products and also Bugs into Features :)
+🎓 Education & Certifications
+M.Sc. in Computing (Ongoing) - Cardiff University
+Focused on Software Engineering, Data Visualization, and Cybersecurity concepts. Key tools and languages include Python, SQL, Tableau, JavaScript, and Java.
 
-<Details>
-  <summary>More about Me! Look I am too lazy to type everything here again will do it later please go to my LinkedIn page until then it is a Work in Progress here🚧</summary>
-  
-## 🔭 Experience
-  
-<Details>
-  <summary>Click to expand!</summary>
+Certifications
 
-#### Boson Motors India Private Limited
-- Mechanical Engineer - III - Aug 2020 - Aug 2023
+AWS Certified Solution Architect
+ITIL Foundation in Service Management
+SCRUM Foundation
+⚙️ Technical Skills
+Languages & Frameworks: Python, SQL, JavaScript, Java, HTML/CSS
+Tools & Platforms: AWS, Power BI, Tableau, Git, Agile/Scrum
+Key Domains: Risk Assessment & Mitigation, Fraud Detection, Incident Response, Compliance
+I am open to collaborating on projects in cybersecurity, cloud architecture, and data-driven risk analysis. Feel free to reach out to discuss potential synergies or just to chat about the latest in cybersecurity!
 
-
-</Details>
-
-## 📚 Publications
-
-<Details>
-  <summary>Click to expand!</summary>
-  
-- [Static Analysis of Airless Tyres](https://iopscience.iop.org/article/10.1088/1757-899X/923/1/012017)
-- [Crash Analysis on Automobile Bumpers](https://iopscience.iop.org/article/10.1088/1757-899X/923/1/012018)
-- [Design and Fabrication of Two Row Paddy Transplanter](https://link.springer.com/book/10.1007%2F978-981-16-2109-3)
- 
-</Details>
-
-## 💡 Projects
-<Details>
-  <summary>Click to expand!</summary>
- 
-- Dynamic Mapping and Cooperative Navigation for Multi-Robot Systems: A Collaborative SLAM Approach
-- Obstacle detection and Simultaneous Localization And Mapping (SLAM) of differential drive rover (TARS)
-- Autonomous navigation of differential drive rover
-- Line Following and Path Planning Using Odometry and PID Control of Pololu 3 Pi + Bot
-- Integration of 3D AI Stereo Camera onto Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Powertrain system architecture of Energy Storage System (ESS) design and integration of 4 wheel drive (4WD) model of Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Integration of Close-Range LiDAR onto Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Battery Thermal Management System (BTMS) Design, Integration and Testing of Energy Storage System (ESS) of LCEV and Stationery Energy Storage System based on LiFePo4 battery (Boson Motors, Inc.)
-- Powertrain system architecture design and integration of Rear Wheel drive (RWD) model of Autonomous Light Utility Vehicle (LUV) (Boson Motors, Inc.)
-- Static Analysis of Different Spoke Structures of Airless Tyres and Conventional Tyre
-- Design and Fabrication of Two Row Paddy Transplanter 
-
-  
-</Details>
- 
- </Details>
-
-## Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## Technologies
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-00979D?style=for-the-badge&logo=SolidWorks&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
-
-
-## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/this_issundar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thisissundar?igsh=MTVmbG9yMGN3ZGNlaQ%3D%3D&utm_source=qr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connectwithmeenakshisundaram)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robocop-uk)
-
-
-
-<!--0.2change-->
